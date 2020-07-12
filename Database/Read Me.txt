@@ -1,0 +1,7 @@
+User & Pass
+
+lufena@toram.com 	pass: luvluv
+faraday@wildwest.com 	pass: far123
+
+Akun Lufena sebagai Admin
+Akun faraday sebagai Pengunjung
